@@ -1,0 +1,5 @@
+A simple weather app created through watching a tutorial by Tyler Potts.
+
+💕 from India
+
+Peace.
