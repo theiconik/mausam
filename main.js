@@ -1,3 +1,7 @@
+let now = new Date();
+let date = document.querySelector(".location .date");
+date.innerText = dateBuilder(now);
+
 const api = {
    key: "ce2b92920563e8be5de82177bbede1d5",
    base: "https://api.openweathermap.org/data/2.5/"
